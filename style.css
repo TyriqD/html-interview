@@ -1,0 +1,26 @@
+h1 {
+    color: purple;
+    border: 1px solid red;
+    text-align: center;
+}
+p {
+    color: purple;
+    text-align: right;
+}
+#name {
+color:green;
+border: 3px dotted yellow;
+text-align: middle;
+background-color: yellow;
+}
+.bordered {
+    border:1px solid brown;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    padding-left: 5px;
+}
+.italic {
+    font-style: italic;
+    font-weight: bolder;
+}
